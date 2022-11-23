@@ -1,0 +1,23 @@
+{
+  "name": "battle-sandbox-graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vytenisu/battle-sandbox-graphs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vytenisu/battle-sandbox-graphs/issues"
+  },
+  "homepage": "https://github.com/vytenisu/battle-sandbox-graphs#readme",
+  "dependencies": {
+    "chartjs-node-canvas": "^4.1.6",
+    "chrome-launcher": "^0.15.1"
+  }
+}
